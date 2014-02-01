@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: arial;
+  font-size: 20px;
+  line-height: 1.5;
+}
+header {
+  background: url(imgs/soln01.jpg);
+}
+header h1 {
+  height: 200px;
+  line-height: 200px;
+  color: white;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 144px;
+  text-align: center;
+  text-shadow: 0 0 2px black;
+}
+header h2 { 
+}
+section,
+aside {
+  width: 65%;
+  margin: 2em auto;
+}
